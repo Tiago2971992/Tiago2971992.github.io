@@ -3,7 +3,7 @@ body{
     font-family: arial, sans-serif;
     text-align: center;
     
-      background-image: href="imagemdefundoindex" alt="Imagem de fundo paisagem";
+      background-image: url("imagemdefundoindex");
     
 
 }
