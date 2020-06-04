@@ -33,3 +33,17 @@ body{
   background-color: #dddddd;
   color: black;
 }
+
+.main{
+  background-color: #ffffff;
+  padding: 20px;
+  flex: 70%;
+  
+}
+
+.side {
+  background-color: #f1f1f1;
+  flex: 30%;
+  padding: 20px;
+}
+
