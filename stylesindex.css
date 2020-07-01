@@ -10,7 +10,7 @@
 }
 
 .header h1{
-    text-align: center;
+    text-align: left;
     padding: 15px;
 }
 
@@ -44,7 +44,9 @@
 
 
 
-*{
+*.p{
     margin: 0;
+    text-align: left;
     
 }
+
