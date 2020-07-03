@@ -2,8 +2,6 @@
     background-color: aqua;
     text-align: center;
     text-decoration: none;
+    text-decoration: black;
 }
 
-a:hover{
-    color: black;
-}
